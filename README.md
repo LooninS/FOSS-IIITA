@@ -1,4 +1,4 @@
-# GH-FOSS-T1: Make a commit and open a PR
+FOSS-IIITA: Make a commit and open a PR
 
 ## What you’ll do
 
