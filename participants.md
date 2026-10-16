@@ -1,2 +1,4 @@
 # Details
+Name: Roll Number
+Prakhar: IIT2026175
 Venu S. Wandile: IIT2026219
