@@ -1,2 +1,3 @@
 # Details
-Name: Roll Number
+Name: Sameer Pinjari
+Roll Number: IIT2026095
